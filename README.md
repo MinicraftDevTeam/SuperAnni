@@ -1,2 +1,3 @@
 # SuperAnni
-Changelog a nahlašováni bugu pro SuperAnnihilation na serveru Minicraft.cz (http://minicraft.cz)
+Source Code není verejný.
+Wiki naleznes zde: https://github.com/MinicraftDevTeam/SuperAnni/wiki
